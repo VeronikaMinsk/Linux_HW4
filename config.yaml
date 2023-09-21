@@ -1,0 +1,16 @@
+folder_tst: /home/user/tst
+folder_in: /home/user2/tst/file
+folder_out: /home/user2/tst/out
+folder_ext: /home/user2/tst/ext
+folder_ext2: /home/user2/tst/ext2
+folder_bad_arx: /home/user2/tst/bad_arx
+count: 5
+size_of_file: 1
+name_of_arch: '*.7z'
+path_journal: /home/user/journal.txt
+host: 0.0.0.0
+user: user2
+password: "3333"
+local_path: /home/user/p7zip-full.deb
+remote_path: /home/user2/p7zip-full.deb
+pkg_name: p7zip-full
